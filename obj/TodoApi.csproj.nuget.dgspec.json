@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/david/Documents/dotnet_basics/AspNetCore.Docs-master/aspnetcore/tutorials/first-web-api/samples/2.2/TodoApi/TodoApi.csproj": {}
+  },
+  "projects": {
+    "/home/david/Documents/dotnet_basics/AspNetCore.Docs-master/aspnetcore/tutorials/first-web-api/samples/2.2/TodoApi/TodoApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/david/Documents/dotnet_basics/AspNetCore.Docs-master/aspnetcore/tutorials/first-web-api/samples/2.2/TodoApi/TodoApi.csproj",
+        "projectName": "TodoApi",
+        "projectPath": "/home/david/Documents/dotnet_basics/AspNetCore.Docs-master/aspnetcore/tutorials/first-web-api/samples/2.2/TodoApi/TodoApi.csproj",
+        "packagesPath": "/home/david/.nuget/packages/",
+        "outputPath": "/home/david/Documents/dotnet_basics/AspNetCore.Docs-master/aspnetcore/tutorials/first-web-api/samples/2.2/TodoApi/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/david/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

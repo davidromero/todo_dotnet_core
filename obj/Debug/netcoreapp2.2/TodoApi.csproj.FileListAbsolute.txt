@@ -1,0 +1,14 @@
+/home/david/Documents/dotnet_basics/AspNetCore.Docs-master/aspnetcore/tutorials/first-web-api/samples/2.2/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.deps.json
+/home/david/Documents/dotnet_basics/AspNetCore.Docs-master/aspnetcore/tutorials/first-web-api/samples/2.2/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.json
+/home/david/Documents/dotnet_basics/AspNetCore.Docs-master/aspnetcore/tutorials/first-web-api/samples/2.2/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.runtimeconfig.dev.json
+/home/david/Documents/dotnet_basics/AspNetCore.Docs-master/aspnetcore/tutorials/first-web-api/samples/2.2/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.dll
+/home/david/Documents/dotnet_basics/AspNetCore.Docs-master/aspnetcore/tutorials/first-web-api/samples/2.2/TodoApi/bin/Debug/netcoreapp2.2/TodoApi.pdb
+/home/david/Documents/dotnet_basics/AspNetCore.Docs-master/aspnetcore/tutorials/first-web-api/samples/2.2/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csprojAssemblyReference.cache
+/home/david/Documents/dotnet_basics/AspNetCore.Docs-master/aspnetcore/tutorials/first-web-api/samples/2.2/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.csproj.CoreCompileInputs.cache
+/home/david/Documents/dotnet_basics/AspNetCore.Docs-master/aspnetcore/tutorials/first-web-api/samples/2.2/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cache
+/home/david/Documents/dotnet_basics/AspNetCore.Docs-master/aspnetcore/tutorials/first-web-api/samples/2.2/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorAssemblyInfo.cs
+/home/david/Documents/dotnet_basics/AspNetCore.Docs-master/aspnetcore/tutorials/first-web-api/samples/2.2/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfoInputs.cache
+/home/david/Documents/dotnet_basics/AspNetCore.Docs-master/aspnetcore/tutorials/first-web-api/samples/2.2/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.AssemblyInfo.cs
+/home/david/Documents/dotnet_basics/AspNetCore.Docs-master/aspnetcore/tutorials/first-web-api/samples/2.2/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.RazorTargetAssemblyInfo.cache
+/home/david/Documents/dotnet_basics/AspNetCore.Docs-master/aspnetcore/tutorials/first-web-api/samples/2.2/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.dll
+/home/david/Documents/dotnet_basics/AspNetCore.Docs-master/aspnetcore/tutorials/first-web-api/samples/2.2/TodoApi/obj/Debug/netcoreapp2.2/TodoApi.pdb
